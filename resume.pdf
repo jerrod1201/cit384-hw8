@@ -1,0 +1,52 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 1733 >>
+stream
+0.09 0.23 0.25 rg BT /F2 24 Tf 1 0 0 1 54 744 Tm (Jerrod Danyi-Robles) Tj ET
+0.15 0.21 0.22 rg BT /F1 11 Tf 1 0 0 1 54 719 Tm (Reseda, CA | github.com/jerrod1201) Tj ET
+0.09 0.23 0.25 rg BT /F2 13 Tf 1 0 0 1 54 674 Tm (PROFILE) Tj ET
+0.15 0.21 0.22 rg BT /F1 10 Tf 1 0 0 1 54 654 Tm (Computer Information Technology student at California State University, Northridge.) Tj ET
+0.15 0.21 0.22 rg BT /F1 10 Tf 1 0 0 1 54 639 Tm (Focused on my senior design project and interested in cloud and software technologies.) Tj ET
+0.09 0.23 0.25 rg BT /F2 13 Tf 1 0 0 1 54 598 Tm (WORK EXPERIENCE & SKILLS) Tj ET
+0.15 0.21 0.22 rg BT /F1 10 Tf 1 0 0 1 54 578 Tm (Senior Design Project | Computer Information Technology | 2025) Tj ET
+0.15 0.21 0.22 rg BT /F1 10 Tf 1 0 0 1 54 561 Tm (Experience with AWS, Azure, CloudStack, Assembly, MySQL, Java, and JavaScript.) Tj ET
+0.15 0.21 0.22 rg BT /F1 10 Tf 1 0 0 1 54 534 Tm (Project responsibilities:) Tj ET
+0.15 0.21 0.22 rg BT /F1 10 Tf 1 0 0 1 54 517 Tm (- Managing the GitHub repository.) Tj ET
+0.15 0.21 0.22 rg BT /F1 10 Tf 1 0 0 1 54 500 Tm (- Deploying the repository to an AWS EC2 server.) Tj ET
+0.15 0.21 0.22 rg BT /F1 10 Tf 1 0 0 1 54 483 Tm (- Troubleshooting repository and deployment issues.) Tj ET
+0.09 0.23 0.25 rg BT /F2 13 Tf 1 0 0 1 54 440 Tm (EDUCATION) Tj ET
+0.15 0.21 0.22 rg BT /F1 10 Tf 1 0 0 1 54 420 Tm (California State University, Northridge \(CSUN\)) Tj ET
+0.15 0.21 0.22 rg BT /F1 10 Tf 1 0 0 1 54 403 Tm (Bachelor of Science in Computer Information Technology) Tj ET
+0.15 0.21 0.22 rg BT /F1 10 Tf 1 0 0 1 54 386 Tm (Expected Spring 2027) Tj ET
+0.15 0.21 0.22 rg BT /F1 10 Tf 1 0 0 1 54 359 Tm (Current courses: CIT 384, CIT 425, CIT 480 Senior Design, COMP 485) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2180
+%%EOF
